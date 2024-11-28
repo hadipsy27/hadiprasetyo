@@ -39,10 +39,10 @@ export default function Header() {
     <header className="fixed top-0 w-full bg-white/80 backdrop-blur-sm z-50 border-b border-gray-100">
       <div className="max-w-6xl mx-auto px-4 sm:px-6 py-4">
         <div className="flex justify-between items-center">
-          <div className="flex items-center space-x-2">
+          <a className="flex items-center space-x-2" href="/">
             <Code2 className="h-6 w-6 text-indigo-600" />
             <span className="font-bold text-xl">Hadi Prasetyo</span>
-          </div>
+          </a>
 
           {/* Desktop Navigation */}
           <nav className="hidden md:flex space-x-8">
