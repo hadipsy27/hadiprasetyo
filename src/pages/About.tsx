@@ -14,7 +14,8 @@ export default function About() {
               <div className="absolute -bottom-20 left-1/2 transform -translate-x-1/2">
                 <div className="w-40 h-40 rounded-full border-4 border-white overflow-hidden">
                   <img
-                    src="https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?auto=format&fit=crop&q=80&w=300&h=300"
+                    src="https://media.licdn.com/dms/image/v2/D5603AQFOxjw8IGUv-A/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1664866709891?e=1738195200&v=beta&t=3AN4ALv-TcFkEV_hy2pvWk1j9fH3rM_7UjKG2dO2yKA"
+                    // src="https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?auto=format&fit=crop&q=80&w=300&h=300"
                     alt="Profile"
                     className="w-full h-full object-cover"
                   />
@@ -73,7 +74,7 @@ export default function About() {
               <div className="max-w-2xl mx-auto">
                 <h2 className="text-xl font-semibold mb-4">About Me</h2>
                 <p className="text-gray-600 mb-6">
-                  I'm a passionate backend developer with over 5 years of
+                  I'm a passionate backend developer with over 3 years of
                   experience in building scalable distributed systems and
                   microservices. My expertise lies in designing and implementing
                   high-performance applications that can handle millions of
