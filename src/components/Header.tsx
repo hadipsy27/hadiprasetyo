@@ -41,7 +41,7 @@ export default function Header() {
         <div className="flex justify-between items-center">
           <div className="flex items-center space-x-2">
             <Code2 className="h-6 w-6 text-indigo-600" />
-            <span className="font-bold text-xl">John Doe</span>
+            <span className="font-bold text-xl">Hadi Prasetyo</span>
           </div>
 
           {/* Desktop Navigation */}

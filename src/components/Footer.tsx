@@ -8,7 +8,7 @@ export default function Footer() {
         <div className="flex flex-col md:flex-row justify-between items-center">
           <div className="flex items-center space-x-2 mb-6 md:mb-0">
             <Code2 className="h-6 w-6 text-indigo-400" />
-            <span className="font-bold text-xl text-white">John Doe</span>
+            <span className="font-bold text-xl text-white">Hadi Prasetyo</span>
           </div>
           <div className="flex space-x-6 mb-6 md:mb-0">
             <a
@@ -36,7 +36,7 @@ export default function Footer() {
           </div>
         </div>
         <div className="mt-8 text-center text-sm">
-          <p>© {new Date().getFullYear()} John Doe. All rights reserved.</p>
+          <p>© {new Date().getFullYear()} Hadi Prasetyo. All rights reserved.</p>
         </div>
       </div>
     </footer>
